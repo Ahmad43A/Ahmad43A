@@ -2,7 +2,7 @@
 ## CS student
 
 
-### -Proficient in C
+### -Proficient in C , C++ , Python
 ### -I’m looking to collaborate on pen testing and Data.
 
 
