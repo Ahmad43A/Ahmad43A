@@ -1,4 +1,4 @@
-# Hi 👋 I am Ahmad ali
+# Hi 👋 I am Ahmed Ali
 ## CS student
 
 
