@@ -17,7 +17,6 @@
 ### -Proficient in C , C++ , Python.
 ### -Currently learning Golang.
 ### -My Skills involve in elasticsearch Database and kibana as data visualization.
-### -My Other Skills also include Linux and Kustos Query Language.
 ### -I’m looking to collaborate on on defensive and Offensive related openSource projects.
 ### -I'm Fond about learning or gaining new knowledge's to sharpen my Skills set.
 ### -Fun Fact: I have a knack for Coding and Scripting.
