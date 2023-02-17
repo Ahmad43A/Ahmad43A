@@ -13,6 +13,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0xkhamis&label=Profile%20views&color=0e75b6&style=flat" alt="Ahmad43A" /> </p>
 
+### -A CS undergrad.
 ### -Proficient in C , C++ , Python.
 ### -Currently learning Golang.
 ### -My Skills involve in elasticsearch Database and kibana as data visualization.
