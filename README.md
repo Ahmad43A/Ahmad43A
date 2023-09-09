@@ -67,16 +67,19 @@ BIO
 
 ---
 
-<a href="https://tryhackme.com/p/Trn"  target="_blank">
-	<img src="https://tryhackme-badges.s3.amazonaws.com/Trn.png" alt="TryHackMe">
-"> 
-</a>
-
 <a href="https://cyberdefenders.org/p/Tron"  target="_blank">
 <img src="https://cyberdefenders.org/p/Tron/badge/image" width="300" />
 "> 
 </a>
+
+<a href="https://tryhackme.com/p/Trn"  target="_blank">
+	<img src="https://tryhackme-badges.s3.amazonaws.com/Trn.png" alt="TryHackMe">
+"> 
+</a>
 ---
+
+
+
 
 
 <div align="center">
