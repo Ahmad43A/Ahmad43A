@@ -6,6 +6,8 @@
 <br>
 <br>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=0xkhamis&label=Profile%20views&color=0e75b6&style=flat" alt="Ahmad43A" /> </p>
+
 <h1 align="center">I'm Ahmed Ali</h1>
   
 A computer science student learning cybersecurity and a blue teamer 
